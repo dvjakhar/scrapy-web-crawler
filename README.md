@@ -9,6 +9,7 @@
 ### 2. Set up [virtualenv](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
     virtualenv venv
+    .\venv\Scripts\activate
     
 ### 3. Install requirements using pip
 
