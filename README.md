@@ -8,6 +8,7 @@
     
 ### 2. Set up [virtualenv](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
+    pip install virtualenv
     virtualenv venv
     .\venv\Scripts\activate
     
